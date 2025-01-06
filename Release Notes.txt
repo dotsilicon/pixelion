@@ -1,0 +1,37 @@
+**RELEASE NOTES**
+Version: 1.7
+Release Date: January 7, 2025
+
+**Features:**
+- **Folder Structure Preservation:** Retain source folder structures during batch conversions.
+- **Enhanced Live Progress:** Display real-time counters for processed and total files.
+- **Responsive UI:** App remains movable and responsive during conversion processes.
+- **Improved Pop-Up Notifications:** Ensure pop-ups stay aligned at the center-top of the app window.
+
+**Bug Fixes:**
+- Resolved edge aliasing issues for RGB conversions.
+- Fixed minor UI glitches in the progress bar and status labels.
+- Addressed high-resolution file scaling inconsistencies.
+
+**Performance Improvements:**
+- Optimized multi-threading for faster processing of large folders.
+- Reduced memory consumption for high-resolution formats.
+
+**Known Issues:**
+- **Complex AI/EPS Files:** Files with intricate layers may take longer to process.
+- **Large Animated GIFs:** Processing times may increase for large or highly animated files.
+
+**Support and Feedback:**
+For assistance, contact:
+
+**RASHIDUL HASAN**  
+Email: md@dotsilicon.com  
+Cell & WhatsApp: +88 01618 680 680  
+
+**SAJJAD PATWARY**  
+Email: sajjad@dotsilicon.com  
+Cell & WhatsApp: +61 045 775 7756  
+
+**www.dotsilicon.com** | **www.dotsilicon.au**
+
+We appreciate your feedback and look forward to enhancing your experience further!
