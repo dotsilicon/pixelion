@@ -27,5 +27,20 @@ Pixelion is an advanced, feature-rich application tailored for image conversion 
 - **Powerful:** Batch processing, advanced format support, and high-quality outputs.
 - **Reliable:** Built with robust error handling and detailed notifications.
 
+**How to Whitelist the File:**
+
+If your antivirus flags it, here’s what you can do:
+
+- Check the file on VirusTotal.com for a second opinion.
+- Restore or allow the file from your antivirus quarantine or history section.
+- Add an exclusion for the app’s folder in your antivirus settings.
+
+**For example:**
+
+- Windows Defender:
+  Settings > Privacy & Security > Windows Security > Virus & Threat Protection > Manage Settings > Add or remove exclusions.
+
+If you're unsure, feel free to contact us for a direct link or ZIP version.
+
 **Get Started Today!**
 Experience streamlined workflows and professional-grade results with Pixelion. Download now and elevate your image processing capabilities!
