@@ -1,37 +1,53 @@
-**RELEASE NOTES**
-Version: 1.7
-Release Date: January 7, 2025
+**RELEASE NOTES**  
+Version: 1.8  
+Release Date: August 5, 2025  
 
-**Features:**
-- **Folder Structure Preservation:** Retain source folder structures during batch conversions.
-- **Enhanced Live Progress:** Display real-time counters for processed and total files.
-- **Responsive UI:** App remains movable and responsive during conversion processes.
-- **Improved Pop-Up Notifications:** Ensure pop-ups stay aligned at the center-top of the app window.
+---
 
-**Bug Fixes:**
-- Resolved edge aliasing issues for RGB conversions.
-- Fixed minor UI glitches in the progress bar and status labels.
-- Addressed high-resolution file scaling inconsistencies.
+**✨ New Features:**  
+- **HEIC Format Support:** Convert high-efficiency HEIC files (from iPhones and Apple devices) to JPG with ease.  
+- **NEF (Nikon RAW) Format Support:** Directly process and convert Nikon’s NEF raw image files into standard JPGs.
 
-**Performance Improvements:**
-- Optimized multi-threading for faster processing of large folders.
-- Reduced memory consumption for high-resolution formats.
+---
 
-**Known Issues:**
-- **Complex AI/EPS Files:** Files with intricate layers may take longer to process.
-- **Large Animated GIFs:** Processing times may increase for large or highly animated files.
+**🔧 Enhancements (Carried Over from v1.7):**  
+- **Folder Structure Preservation:** Retains the original folder structure during batch conversions.  
+- **Live Progress Tracking:** Real-time display of current and total processed files.  
+- **Responsive UI:** The application window remains interactive during conversions.  
+- **Improved Pop-Up Placement:** Notification dialogs consistently stay top-centered within the app.
 
-**Support and Feedback:**
-For assistance, contact:
+---
+
+**🐞 Bug Fixes:**  
+- Fixed edge aliasing issues in RGB image conversions.  
+- Resolved minor UI misalignments in progress and status indicators.  
+- Corrected scaling inconsistencies for very large image files.
+
+---
+
+**🚀 Performance Improvements:**  
+- Enhanced multi-threading performance for batch processing.  
+- Lowered RAM usage when handling high-resolution files and complex formats.
+
+---
+
+**⚠ Known Issues:**  
+- **Complex AI/EPS Files:** Files with dense vector layers may still require longer processing times.  
+- **Large Animated GIFs:** Performance may degrade with heavily animated or oversized GIFs.
+
+---
+
+**📞 Support & Feedback:**  
 
 **RASHIDUL HASAN**  
-Email: md@dotsilicon.com  
-Cell & WhatsApp: +88 01618 680 680  
+📧 Email: md@dotsilicon.com  
+📱 Cell & WhatsApp: +88 01618 680 680  
 
 **SAJJAD PATWARY**  
-Email: sajjad@dotsilicon.com  
-Cell & WhatsApp: +61 045 775 7756  
+📧 Email: sajjad@dotsilicon.com  
+📱 Cell & WhatsApp: +61 045 775 7756  
 
-**www.dotsilicon.com** | **www.dotsilicon.au**
+🌐 **www.dotsilicon.com** | **www.dotsilicon.au**  
 
-We appreciate your feedback and look forward to enhancing your experience further!
+We’re committed to constant improvement — thank you for using **Pixelion**!  
+Your feedback drives our innovation.
