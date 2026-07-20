@@ -1,0 +1,112 @@
+PIXELION END USER LICENSE AGREEMENT (EULA)
+
+Effective Date: July 20, 2026
+Software: Pixelion
+Publisher: Dotsilicon Limited
+
+IMPORTANT: PLEASE READ THIS AGREEMENT CAREFULLY.
+
+This End User License Agreement ("Agreement") is a legal agreement between you and Dotsilicon Limited concerning Pixelion, including its installer, documentation, updates, and related materials (collectively, the "Software").
+
+By selecting "I accept the agreement," installing, copying, or using the Software, you agree to this Agreement. If you do not agree, select "I do not accept the agreement" and do not install or use the Software.
+
+1. FREEWARE STATUS
+
+Pixelion is provided completely free of charge. No purchase, subscription, or license fee is required for personal, educational, professional, or commercial use.
+
+Any contribution or donation is voluntary. It does not purchase the Software, unlock features, create a paid-service relationship, or provide additional license rights or guaranteed support.
+
+2. LICENSE GRANT
+
+Subject to this Agreement, Dotsilicon Limited grants you a limited, non-exclusive, worldwide, revocable license to install and use the Software on devices you own or control, including within a business or other organization.
+
+You may make reasonable backup copies of the official installer for your own use. All rights not expressly granted are reserved by Dotsilicon Limited.
+
+3. RESTRICTIONS
+
+Unless applicable law expressly allows it, you may not:
+
+(a) sell, rent, lease, sublicense, or commercially redistribute the Software;
+(b) repackage, modify, or distribute the Software or installer under another name;
+(c) reverse engineer, decompile, disassemble, or attempt to obtain its source code;
+(d) remove or alter copyright, trademark, attribution, or proprietary notices;
+(e) claim ownership of the Software or falsely represent that you created, publish, or officially endorse it; or
+(f) use the Software unlawfully or to violate another person's rights.
+
+You may share a link to an official Pixelion download page. Written permission from Dotsilicon Limited is required to host or publicly redistribute the installer.
+
+4. YOUR FILES AND CONTENT
+
+You retain all rights you lawfully hold in your source files and converted output files. Dotsilicon Limited does not claim ownership of files processed with the Software.
+
+You are responsible for having the rights and permissions required to process, convert, copy, or distribute any file used with the Software.
+
+5. FILE SAFETY AND OUTPUT VERIFICATION
+
+Conversion may change or remove metadata, color profiles, layers, transparency, animation, dimensions, compression details, or other file properties. Some files may be unsupported, damaged, incorrectly rendered, or impossible to convert.
+
+Keep backups of important source files and verify converted files before replacing or deleting originals. You are responsible for selecting suitable settings and confirming that the output meets your requirements.
+
+6. PRIVACY
+
+The Software processes selected files locally on your device and is not designed to upload those files to Dotsilicon Limited. It does not require an account and does not intentionally collect, store, or transmit personal data to Dotsilicon Limited during normal file conversion.
+
+External websites, updates, support communications, voluntary contributions, and third-party services may be governed by their own privacy terms.
+
+7. OWNERSHIP AND THIRD-PARTY COMPONENTS
+
+The Software, including its original code, design, branding, graphics, documentation, and other original materials, is owned by Dotsilicon Limited or its licensors and is protected by applicable intellectual-property laws.
+
+The Software may include third-party components governed by their own licenses. Where a third-party license conflicts with this Agreement, that license controls only for the relevant component.
+
+8. UPDATES AND AVAILABILITY
+
+Dotsilicon Limited may release updates, change features or supported formats, or discontinue the Software or a related service. Updates and continued availability are not guaranteed.
+
+This Agreement may be revised for a future version or update. If you do not accept a revised agreement presented with that version or update, do not install or use it.
+
+9. DISCLAIMER OF WARRANTIES
+
+To the maximum extent permitted by law, the Software is provided "AS IS" and "AS AVAILABLE," without warranties or guarantees of any kind, whether express, implied, or statutory, including merchantability, fitness for a particular purpose, accuracy, compatibility, availability, and non-infringement.
+
+Dotsilicon Limited does not guarantee uninterrupted or error-free operation, compatibility with every file or device, or any particular conversion result.
+
+Nothing in this Agreement excludes, restricts, or modifies a right, guarantee, warranty, or remedy that cannot lawfully be excluded, restricted, or modified.
+
+10. LIMITATION OF LIABILITY
+
+To the maximum extent permitted by law, Dotsilicon Limited and its directors, officers, employees, representatives, and licensors will not be liable for indirect, incidental, special, exemplary, punitive, or consequential loss arising from or connected with the Software, including loss or corruption of files, loss of data, lost profits, business interruption, or loss of opportunity.
+
+This limitation applies regardless of the legal basis of the claim and even if the possibility of loss was known. It does not apply to liability that cannot lawfully be limited or excluded.
+
+11. TERMINATION
+
+This license ends automatically if you materially breach this Agreement. You must then stop using the Software and remove copies under your control. Provisions concerning ownership, restrictions, disclaimers, liability, governing law, and provisions intended by their nature to survive will remain effective.
+
+12. GOVERNING LAW AND DISPUTES
+
+This Agreement is governed by the laws of Bangladesh, without regard to conflict-of-law principles. Subject to any mandatory rights or jurisdiction available under applicable law, the courts of Bangladesh will have jurisdiction over disputes relating to this Agreement or the Software.
+
+Nothing in this section removes consumer or other statutory rights that apply to you and cannot lawfully be waived by contract.
+
+13. GENERAL
+
+If a provision is held invalid or unenforceable, it will be limited or removed only to the minimum extent necessary, and the remaining provisions will continue in effect.
+
+Failure to enforce a provision is not a waiver. This Agreement, together with applicable third-party notices, is the entire agreement concerning the Software and replaces earlier agreements covering the same subject.
+
+14. CONTACT
+
+Rashidul Hasan
+Email: md@dotsilicon.com
+Cell & WhatsApp: +880 1618 680 680
+
+Sajjad Patwary
+Email: sajjad@dotsilicon.com
+Cell & WhatsApp: +61 45 775 7756
+
+Websites:
+https://www.dotsilicon.com
+https://www.dotsilicon.au
+
+By accepting this Agreement, you confirm that you have read, understood, and agreed to its terms.
